@@ -21,7 +21,7 @@
 <br/>
 
 <a href="https://github.com/aariiz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aariz6&theme=dark&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aariz&theme=dark&show_icons=true" />
 
 <br/>
 
