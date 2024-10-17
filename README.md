@@ -22,7 +22,7 @@
 
 <a href="https://github.com/aariiz">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=aariiz&theme=dark&show_icons=true" />
-
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aariiz&theme=dark&&langs_count=8" />
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
