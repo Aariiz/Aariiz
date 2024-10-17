@@ -27,9 +27,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/miguelgavarrete/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Miguel%20Gavarrete-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/miguegavarrete/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-miguegavarrete-blue?style=flat-square&logo=instagram"></a>
-</p>
+My Discord Profile
+
+<a href="https://discordapp.com/users/888122029562269747/">
+  <img src="https://discord.c99.nl/widget/theme-1/888122029562269747.png" />
+</a>
 
 ------
